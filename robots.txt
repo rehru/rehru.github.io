@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rehru.github.io/nat/sitemap.nat.gz
